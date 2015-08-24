@@ -1,0 +1,17 @@
+<map version="0.9.0">
+<!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
+<node TEXT="Gestor de pedidos" ID="ID_676170173" CREATED="1440454283769" MODIFIED="1440454877967">
+<hook NAME="MapStyle" max_node_width="600"/>
+<node TEXT="permite" POSITION="right" ID="ID_1869209991" CREATED="1440455140578" MODIFIED="1440455667976">
+<node TEXT="Al usuario" ID="ID_424512531" CREATED="1440455151629" MODIFIED="1440455675473">
+<node TEXT="Desplegar catalogo de productos" ID="ID_816477953" CREATED="1440455696420" MODIFIED="1440455713793"/>
+<node TEXT="Informacion sobre ofertas" ID="ID_378698377" CREATED="1440455733593" MODIFIED="1440456411631" VSHIFT="2"/>
+<node TEXT="" ID="ID_1459887597" CREATED="1440455848650" MODIFIED="1440455848650"/>
+</node>
+<node TEXT="Al proveedor" ID="ID_1859722374" CREATED="1440456143733" MODIFIED="1440456153141">
+<node TEXT="Descargar su contenido desde la nube" ID="ID_362409720" CREATED="1440456158656" MODIFIED="1440456176356"/>
+<node TEXT="" ID="ID_800702673" CREATED="1440456190514" MODIFIED="1440456190514"/>
+</node>
+</node>
+</node>
+</map>
