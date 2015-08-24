@@ -1,0 +1,13 @@
+C:\Users\ç\Documents\Visual Studio 2012\Projects\ColoresRadioButton\ColoresRadioButton\Bin\Debug\ApplicationIcon.png
+C:\Users\ç\Documents\Visual Studio 2012\Projects\ColoresRadioButton\ColoresRadioButton\Bin\Debug\Background.png
+C:\Users\ç\Documents\Visual Studio 2012\Projects\ColoresRadioButton\ColoresRadioButton\Bin\Debug\ColoresRadioButton.dll
+C:\Users\ç\Documents\Visual Studio 2012\Projects\ColoresRadioButton\ColoresRadioButton\Bin\Debug\ColoresRadioButton.pdb
+C:\Users\ç\Documents\Visual Studio 2012\Projects\ColoresRadioButton\ColoresRadioButton\Bin\Debug\AppManifest.xaml
+C:\Users\ç\Documents\Visual Studio 2012\Projects\ColoresRadioButton\ColoresRadioButton\Bin\Debug\ColoresRadioButton.xap
+C:\Users\ç\Documents\Visual Studio 2012\Projects\ColoresRadioButton\ColoresRadioButton\obj\Debug\ColoresRadioButton.csprojResolveAssemblyReference.cache
+C:\Users\ç\Documents\Visual Studio 2012\Projects\ColoresRadioButton\ColoresRadioButton\obj\Debug\App.g.cs
+C:\Users\ç\Documents\Visual Studio 2012\Projects\ColoresRadioButton\ColoresRadioButton\obj\Debug\MainPage.g.cs
+C:\Users\ç\Documents\Visual Studio 2012\Projects\ColoresRadioButton\ColoresRadioButton\obj\Debug\ColoresRadioButton.g.resources
+C:\Users\ç\Documents\Visual Studio 2012\Projects\ColoresRadioButton\ColoresRadioButton\obj\Debug\ColoresRadioButton.dll
+C:\Users\ç\Documents\Visual Studio 2012\Projects\ColoresRadioButton\ColoresRadioButton\obj\Debug\ColoresRadioButton.pdb
+C:\Users\ç\Documents\Visual Studio 2012\Projects\ColoresRadioButton\ColoresRadioButton\obj\Debug\XapCacheFile.xml
